@@ -1,0 +1,22 @@
+header {
+    background-color: rgb(61, 7, 112);
+    position: fixed;
+    width: 1200px;
+}
+
+header>nav {
+    float: right;
+    padding: 10px;
+    color: mediumorchid;
+}
+
+.titrepage {
+    font-size: xx-large;
+    text-align: center;
+    padding: 200px;
+}
+
+.logo {
+    padding: 10px 10px 8px 10px;
+    width: 150px;
+}
