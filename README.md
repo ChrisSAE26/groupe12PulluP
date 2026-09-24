@@ -4,11 +4,11 @@
 
 ## Membres du groupe :
 
-Etudiant 1 (référent du groupe) : [Laroche Chris ] 
-Etudiant 2 : [Kalbe Johan]
-Etudiant 3 : [Khedim Mathys]
-Etudiant 4 : [Kadiric Ervin]  
-Etudiant 5 : [Hannachi Amine]  
+Etudiant 1 (référent du groupe) : [Laroche Chris ] ()
+Etudiant 2 : [Kalbe Johan]()
+Etudiant 3 : [Khedim Mathys]()
+Etudiant 4 : [Kadiric Ervin]()  
+Etudiant 5 : [Hannachi Amine]()  
 
 # Présentation du projet
 
