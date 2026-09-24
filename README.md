@@ -1,15 +1,16 @@
-Groupe 12 — Pullup Entertainment
-Sujet
+# Groupe 12 — Pullup Entertainment
+## Pullup Entertainment
 
-Pullup Entertainment
-Membres du groupe
 
-Etudiant 1 (référent du groupe) : Laroche Chris
-Etudiant 2 : Kalbe Johan
-Etudiant 3 : Khedim Mathys
-Etudiant 4 : Kadiric Ervin
-Etudiant 5 : Hannachi Amine
-Présentation du projet
+## Membres du groupe :
+
+Etudiant 1 (référent du groupe) : [Laroche Chris ] 
+Etudiant 2 : [Kalbe Johan]
+Etudiant 3 : [Khedim Mathys]
+Etudiant 4 : [Kadiric Ervin]  
+Etudiant 5 : [Hannachi Amine]  
+
+# Présentation du projet
 
 Ce projet est réalisé dans le cadre de la SAÉ S1.05-06 du BUT Informatique à l'IUT de Belfort-Montbéliard.
 
