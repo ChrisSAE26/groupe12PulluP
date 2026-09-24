@@ -4,11 +4,11 @@
 
 ## Membres du groupe :
 
-Etudiant 1 (référent du groupe) : [Laroche Chris ] 
-Etudiant 2 : [Kalbe Johan]
-Etudiant 3 : [Khedim Mathys]
-Etudiant 4 : [Kadiric Ervin]  
-Etudiant 5 : [Hannachi Amine]  
+Etudiant 1 (référent du groupe) : [Laroche Chris ] (chris.laroche@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
+Etudiant 2 : [Hannachi Amine] (ahmed.hannachi@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
+Etudiant 3 : [Kadiric Ervin] (ervin.kadiric@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
+Etudiant 4 : [ Khedim Mathys]  (mathys.khedim@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
+Etudiant 5 : [Kalbe Johan]  (johan.kalbe@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
 
 # Présentation du projet
 
