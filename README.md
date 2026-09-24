@@ -4,7 +4,7 @@
 
 ## Membres du groupe :
 
-Etudiant 1 (référent du groupe) : [Laroche Chris ] (chris.laroche@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
+Etudiant 1 (référent du groupe) : [Laroche Chris ] (chris.laroche@edu.univ-fcomte.fr) 
 
 Etudiant 2 : [Hannachi Amine] (ahmed.hannachi@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
 
