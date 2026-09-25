@@ -1,7 +1,7 @@
 # Pullup Entertainment
 ## Groupe 12 — Pullup Entertainment
 
-[Pullup Entertainment](https://github.com/ChrisSAE26/groupe12PulluP)
+[Pullup Entertainment](https://ChrisSAE26.github.io/groupe12PulluP)
 
 
 ## Membres du groupe :
