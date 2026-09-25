@@ -7,7 +7,7 @@ header {
 header>nav {
     float: right;
     padding: 10px;
-    color: mediumorchid;
+    color: white;
 }
 
 .titrepage {
@@ -20,7 +20,21 @@ header>nav {
     padding: 10px 10px 8px 10px;
     width: 150px;
 }
+
 footer {
+    padding: 60px
     background-color: rgb(61, 7, 112);
-    color: mediumorchid;
-    }
+    color: white;
+    width: 100%
+}
+
+table {
+    margin: 50px;
+    border-collapse: collapse;
+    border: solid;
+}
+
+th, td {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
