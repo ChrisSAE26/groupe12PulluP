@@ -10,6 +10,10 @@ header>nav {
     color: white;
 }
 
+body {
+    margin: 0;
+}
+
 .titrepage {
     font-size: xx-large;
     text-align: center;
