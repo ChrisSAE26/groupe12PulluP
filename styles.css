@@ -1,23 +1,37 @@
-header {
-    background-color: rgb(61, 7, 112);
-    position: fixed;
-    width: 100%;
-}
-
-header>nav {
-    float: right;
-    padding: 10px;
-    color: white;
-}
-
 body {
-    margin: 0;
+    margin: 0px;
+    font-family: "Geologica";
 }
 
-.titrepage {
+header {
+    background-color:#552d71;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header>nav, nav a{
+    float: right;
+    padding: 14px;
+    color: white;
+    display: flex;
+}
+
+nav a:hover {
+    margin: 0px;
+    padding: 14px;
+    height: auto;
+    border-radius: 10px;
+    color: white;
+    background-color: #7525c0;
+}
+
+.titrePage {
     font-size: xx-large;
     text-align: center;
-    padding: 200px;
+    padding: 20% 10%;
 }
 
 .logo {
@@ -26,19 +40,8 @@ body {
 }
 
 footer {
-    padding: 60px;
-    background-color: rgb(61, 7, 112);
     color: white;
-    width: 100%;
-}
-
-table {
-    margin: 50px;
-    border-collapse: collapse;
-    border: solid;
-}
-
-th, td {
-    border-collapse: collapse;
-    border: 2px solid black;
+    padding: 40px;
+    background-color: #552d71;
+    max-width: 100%;
 }
