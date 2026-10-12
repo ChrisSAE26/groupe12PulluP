@@ -1,47 +1,177 @@
+/* body */
+
 body {
     margin: 0px;
     font-family: "Geologica";
 }
 
+/* header */
+
 header {
-    background-color:#552d71;
+    background-color: #613481;
     width: 100%;
+    box-sizing: border-box;
     display: flex;
     position: fixed;
     justify-content: space-between;
     align-items: center;
+    padding: 0 24px;
 }
 
-header>nav, nav a{
-    float: right;
-    padding: 14px;
-    color: white;
+header>nav {
     display: flex;
 }
 
-nav a:hover {
-    margin: 0px;
-    padding: 14px;
-    height: auto;
-    border-radius: 10px;
+nav a {
+    padding: 18px 14px;
     color: white;
-    background-color: #7525c0;
+    text-decoration: none;
 }
 
-.titrepage {
-    font-size: xx-large;
-    text-align: center;
-    padding: 20% 10%;
+nav a:hover {
+    border-radius: 10px;
+    background-color: #7525c0;
+    text-decoration: none;
 }
 
 .logo {
-    padding: 10px 10px 8px 10px;
-    width: 150px;
+    height: 30px;
+    width: auto;
+    padding: 0;
+    display: block;
 }
 
+
+/* bandeau du haut + titre de la page (h1)  texte d'intro */
+
+.bandeau {
+  color: black;
+  text-align: center;
+  padding: 64px 20px;
+}
+
+.bandeau h1 {
+  font-size: 2.6rem;
+  margin: 0 0 12px;
+  color: #48156D;
+}
+
+.bandeau p {
+  max-width: 60ch;
+  margin: 0 auto 28px;
+}
+
+
+/* les 3 cases de chiffres clés (dans le bandeau du haut)*/
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 14px;
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+.stat {
+  background: #7525C0;
+  color: white;
+  border-radius: 10px;
+  padding: 16px 18px;
+}
+
+.stat b {
+  display: block;
+  font-size: 1.7rem;
+}
+
+.stat span {
+  font-size: 0.9rem;
+}
+
+
+/* zone des 3 contenus (fond de la zone principale) */
+
+main {
+  background: white;
+  color: black;
+  padding: 40px 20px;
+}
+
+
+/* les blocs (cadre, disposition texte + image) */
+
+.bloc {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  max-width: 960px;
+  margin: 0 auto 28px;
+  border: 2px solid #7525C0;
+  border-radius: 10px;
+  padding: 24px;
+}
+
+/* 2e bloc : image à gauche, texte à droite */
+
+.bloc.inverse {
+  flex-direction: row-reverse;
+}
+
+
+/* texte des blocs (titre h2 + paragraphes) */
+
+.bloc-texte {
+  flex: 1;
+}
+
+.bloc-texte h2 {
+  margin: 0 0 12px;
+  font-size: 1.5rem;
+  color: #48156D;
+}
+
+.bloc-texte p {
+  margin: 0 0 12px;
+}
+
+
+/* graphiques des blocs (image + légende) */
+
+.bloc figure {
+  flex: 0 0 42%;
+  margin: 0;
+}
+
+.bloc figure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+.bloc figcaption {
+  font-size: 0.85rem;
+  margin-top: 8px;
+  text-align: center;
+  padding-left: 30px;
+}
+
+
+/* sources */
+
+.sources {
+  max-width: 960px;
+  margin: 32px auto 0;
+  font-size: 0.82rem;
+}
+
+
+/* footer */
+
 footer {
-    color: white;
-    padding: 40px;
-    background-color: #552d71;
-    max-width: 100%;
+  display: flex;
+  justify-content: space-between;
+  background: #613481;
+  color: white;
+  padding: 18px 24px;
 }
