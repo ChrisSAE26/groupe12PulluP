@@ -36,7 +36,7 @@ nav a:hover {
 .titrepage {
     font-size: xx-large;
     text-align: center;
-    padding: 20% 10%;
+    padding: 10% 10%;
 }
 
 .logo {
@@ -176,6 +176,132 @@ footer {
     padding: 30px;
     background-color: #552d71;
     max-width: 100%;
+}
+
+/* Styles page d'accueil */
+
+.boutonMain {
+    margin: 20px 15px 10px 0px;
+    padding: 14px;
+    width: 10%;
+    height: auto;
+    border-radius: 10px;
+    color: white;
+    background-color: #552d71;
+}
+
+.boutonMain a {
+    color: white;
+    text-decoration: none;
+}
+
+.bigButton {
+    text-align: center;
+    margin: 30px auto;
+    padding: 14px;
+    width: 30%;
+    height: auto;
+    border-radius: 10px;
+    color: white;
+    background-color: #552d71;
+}
+
+.bigButton a {
+    color: white;
+    text-decoration: none;
+}
+
+.titrecontenu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.contenu {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.imageAccueil {
+    display: inline-block;
+    width: 100%;
+}
+
+.boite  {
+    margin: 20px;
+    padding: 5px 10px 10px 10px;
+    width: auto;
+    border: 2px solid #7525C0; 
+    border-radius: 10px;
+}
+
+.text, h2 {
+    margin: 20px;
+}
+
+/* Styles contact.html */
+
+.bandeau.contact-hero {
+    padding-top: 140px;
+}
+
+/* carte Google Maps */
+.bloc figure.carte {
+    flex: 0 0 50%;
+}
+
+.bloc figure.carte iframe {
+    width: 100%;
+    height: 340px;
+    border: 0;
+    border-radius: 8px;
+    display: block;
+}
+
+.bloc figure.carte figcaption {
+    padding-left: 0;
+}
+
+/* adresse */
+.adresse {
+    font-style: normal;
+    line-height: 1.7;
+    margin: 0 0 16px;
+}
+
+.bouton {
+    display: inline-block;
+    background: #7525C0;
+    color: white;
+    text-decoration: none;
+    border: 0;
+    border-radius: 10px;
+    padding: 12px 20px;
+    font-family: inherit;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.bouton:hover {
+    background: #552d71;
+}
+
+/* mobile : texte et carte l'un sous l'autre */
+@media (max-width: 760px) {
+    .bloc.contact-bloc {
+        flex-direction: column;
+    }
+
+    .bloc figure.carte {
+        flex: none;
+        width: 100%;
+    }
+
+    .bandeau h1 {
+        font-size: 2rem;
+    }
 }
 
 
