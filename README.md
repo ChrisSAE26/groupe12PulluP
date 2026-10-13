@@ -25,18 +25,17 @@ Ce projet est réalisé dans le cadre de la SAÉ S1.05-06 du BUT Informatique à
 
 page d'accueil:
 
-page 1: lien:https://validator.w3.org/nu/?doc=https%3A%2F%2Fchrissae26.github.io%2Fgroupe12PulluP%2Fpage1.html
-Screen: <img width="1878" height="522" alt="image" src="https://github.com/user-attachments/assets/489abbe4-41af-4fb8-8780-864c6fefc628" />
+page 1:
+lien :https://validator.w3.org/nu/?doc=https%3A%2F%2Fchrissae26.github.io%2Fgroupe12PulluP%2Fpage1.html
+Capture: <img width="1878" height="522" alt="image" src="https://github.com/user-attachments/assets/489abbe4-41af-4fb8-8780-864c6fefc628" />
 
 
 page2:
 
 page3:
-### Validation W3C - Page 3
 
 ![Validation W3C page 3](capture-w3c.png) https://validator.w3.org/nu/
-screen:
-<img width="1867" height="748" alt="image" src="https://github.com/user-attachments/assets/0e4a64e4-c611-4d7e-a342-16603d6031ea" />
+Capture: <img width="1867" height="748" alt="image" src="https://github.com/user-attachments/assets/0e4a64e4-c611-4d7e-a342-16603d6031ea" />
 
 
 
@@ -53,3 +52,12 @@ Il permet également de découvrir différents aspects économiques liés à l'e
 L'objectif de ce projet est de présenter Pullup Entertainment à travers un site web clair, organisé et facile à consulter.
 
 Le site est réalisé en HTML et CSS dans le cadre de notre SAÉ.
+
+# Répartition des tâches 
+
+Planification : KALBE Johan
+Développement Page d'accueil : LAROCHE Chris
+Recherche/Développement Page économie : KALBE Johan
+Recherche/Développement Page histoire : KADIRIC Ervin 
+Recherche/Développement Page culture : HANNACHI Amine 
+Recherche/Développement Page localisation : KHEDIM Mathys
