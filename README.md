@@ -20,6 +20,19 @@ Etudiant 5 : [Kalbe Johan](mailto:johan.kalbe@edu.univ-fcomte.fr)
 
 Ce projet est réalisé dans le cadre de la SAÉ S1.05-06 du BUT Informatique à l'IUT de Belfort-Montbéliard.
 
+
+# Vérification W3S validator
+
+page d'accueil:
+
+page 1: https://validator.w3.org/nu/#file
+
+page2:
+
+page3:
+
+page de localisation:
+
 Notre groupe a choisi de réaliser un site web consacré à Pullup Entertainment.
 
 Ce site présente l'entreprise, son histoire, ses activités et son organisation.
