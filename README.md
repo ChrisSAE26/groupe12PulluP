@@ -35,6 +35,9 @@ page3:
 ### Validation W3C - Page 3
 
 ![Validation W3C page 3](capture-w3c.png)
+screen:
+<img width="1867" height="748" alt="image" src="https://github.com/user-attachments/assets/0e4a64e4-c611-4d7e-a342-16603d6031ea" />
+
 
 https://validator.w3.org/nu/
 
