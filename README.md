@@ -46,6 +46,8 @@ page de localisation: https://validator.w3.org/nu/?doc=https%3A%2F%2Fchrissae26.
 
 Planification : KALBE Johan
 
+Hébergement Github/Gitlab/Bitbucket : LAROCHE Chris
+
 Développement Page d'accueil : LAROCHE Chris
 
 Recherche/Développement Page économie : KALBE Johan
