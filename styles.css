@@ -176,3 +176,10 @@ footer {
     background-color: #552d71;
     max-width: 100%;
 }
+
+.contenu {
+    display: flex;
+    flex-direction: row-reverse; 
+    align-items: center;
+    gap: 20px;
+}
