@@ -56,8 +56,13 @@ Le site est réalisé en HTML et CSS dans le cadre de notre SAÉ.
 # Répartition des tâches 
 
 Planification : KALBE Johan
+
 Développement Page d'accueil : LAROCHE Chris
+
 Recherche/Développement Page économie : KALBE Johan
+
 Recherche/Développement Page histoire : KADIRIC Ervin 
+
 Recherche/Développement Page culture : HANNACHI Amine 
+
 Recherche/Développement Page localisation : KHEDIM Mathys
