@@ -25,7 +25,8 @@ Ce projet est réalisé dans le cadre de la SAÉ S1.05-06 du BUT Informatique à
 
 page d'accueil:
 
-page 1: <img width="1878" height="522" alt="image" src="https://github.com/user-attachments/assets/489abbe4-41af-4fb8-8780-864c6fefc628" />
+page 1: lien:https://validator.w3.org/nu/?doc=https%3A%2F%2Fchrissae26.github.io%2Fgroupe12PulluP%2Fpage1.html
+Screen: <img width="1878" height="522" alt="image" src="https://github.com/user-attachments/assets/489abbe4-41af-4fb8-8780-864c6fefc628" />
 
 
 page2:
