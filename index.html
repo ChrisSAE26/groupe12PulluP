@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <link rel = "icon" type = "image/x-icon" href= "logo.ico">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
@@ -12,37 +11,54 @@
 </head>
 <body>
     <header>
-        <span><img src="logo.png" class="logo"></span>
+        <span><img src="logo.png" class="logo" alt=""></span>
         <nav>
-            <a href="index.html" class="menuButton">Accueil</a>
+            <a href="accueil.html" class="menuButton">Accueil</a>
+            <a href="economie.html" class="menuButton">Économie</a>
             <a href="histoire.html" class="menuButton">Histoire</a>
-            <a href="economie.html" class="menuButton">Economie</a>
             <a href="culture.html" class="menuButton">Culturel</a>    
             <a href="contact.html" class="menuButton">Localisation</a>
         </nav>
     </header>
 
-    <div class="titrepage">
-        <h1>Bienvenue chez PulluP!</h1>
+    <img src="image-accueil.jpg" class="imageAccueil" alt="">
+
+    <div class="titrePage">
+        <h1>Bienvenue sur le site d'informations de PulluP Entertainment</h1>
     </div>
 
-    <div>
-        <h2>Nos différents aspects</h2>
-        <br>
-        <a href="page1.html" class="menuButton">Économie</a>
-        <br>
-        <a href="page2.html" class="menuButton">Écologie</a>
-        <br>
-        <a href="page3.html" class="menuButton">Social</a>
+    <div class="contenu">
+        <h1 class="titrecontenu">Les différents aspects de notre entreprise</h1>
+        <div class="boite">
+            <h2>Économie</h2>
+            <div class="text">
+                Découvrez l'économie de notre entreprise, chiffre d'affaires et évolution au fil des années.
+                <div class="boutonMain"><a href="economie.html">En Savoir Plus</a></div>
+            </div>
+        </div>
+        <div class="boite">
+            <h2>Histoire</h2>
+            <div class="text">
+                Découvrez les différents événements qui ont marqué notre entreprise.
+                <div class="boutonMain"><a href="histoire.html">En Savoir Plus</a></div>
+            </div>
+        </div>
+        <div class="boite">
+            <h2>Impact culturel</h2>
+            <div class="text">
+                Découvrez les principes qui constituent la base de notre entreprise et des jeux que nous produisons.
+                <div class="boutonMain"><a href="culture.html">En Savoir Plus</a></div>
+            </div>
+        </div>
+        <hr>
+        <div class="bigButton">
+        <h3><a href="contact.html">Nous contacter</a></h3>
+        </div>
     </div>
 
-    <div>
-        <h2><a href="contact.html" class="menuButton">Nous contacter</a></h2>
-    </div>
+    <footer>
+    <span>PULLUP Entertainment</span>
+    <span>LAROCHE Chris Groupe 12</span>
+    </footer>
 </body>
-    
-<footer>
-    LAROCHE Chris
-</footer>
-
 </html>
