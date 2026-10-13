@@ -25,7 +25,8 @@ Ce projet est réalisé dans le cadre de la SAÉ S1.05-06 du BUT Informatique à
 
 page d'accueil:
 
-page 1: https://validator.w3.org/nu/#file
+page 1: <img width="1878" height="522" alt="image" src="https://github.com/user-attachments/assets/489abbe4-41af-4fb8-8780-864c6fefc628" />
+
 
 page2:
 
