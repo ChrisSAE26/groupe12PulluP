@@ -32,27 +32,11 @@ Screen: <img width="1878" height="522" alt="image" src="https://github.com/user-
 page2:
 
 page3:
-## Validation W3C - Page 3
+### Validation W3C - Page 3
 
-**Auteur :** Hannachi Amine
+![Validation W3C page 3](capture-w3c.png)
 
-**Page :** page3.html - Positionnement culturel de PullUp Entertainment
-
-**Validateur utilisé :** W3C Markup Validation Service
-
-**Lien :** https://validator.w3.org/
-
-**Méthode :** Validation par saisie directe du code HTML.
-
-**Résultat :** Validation réussie.
-
-- 0 erreur
-- 0 avertissement
-- Analyseur utilisé : HTML
-- Temps d'exécution : 9 millisecondes
-
-Le document page3.html respecte les règles vérifiées
-par le validateur W3C.
+https://validator.w3.org/nu/
 
 
 page de localisation:
