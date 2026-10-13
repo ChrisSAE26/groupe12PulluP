@@ -21,6 +21,7 @@ header>nav, nav a{
     padding: 14px;
     color: white;
     display: flex;
+    text-decoration: none;
 }
 
 nav a:hover {
