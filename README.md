@@ -34,6 +34,10 @@ Le site est réalisé en HTML et CSS dans le cadre de notre SAÉ.
 
 page d'accueil: https://validator.w3.org/nu/?doc=https%3A%2F%2Fchrissae26.github.io%2Fgroupe12PulluP%2F
 
+
+
+<img width="1250" height="583" alt="Capture d&#39;écran 2026-10-14 213636" src="https://github.com/user-attachments/assets/211986ed-3750-4d7a-a5e8-64c66114c4e9" />
+
 page économie: https://validator.w3.org/nu/?doc=https%3A%2F%2Fchrissae26.github.io%2Fgroupe12PulluP%2Feconomie.html
 
 page histoire: https://validator.w3.org/nu/?doc=https%3A%2F%2Fchrissae26.github.io%2Fgroupe12PulluP%2Fhistoire.html
